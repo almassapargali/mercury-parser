@@ -134,7 +134,7 @@
   ],
   "browser": {
     "main": "./dist/mercury.web.js",
-    "postman-request": "browser-request",
+    "postman-request": "browser-request"
   },
   "husky": {
     "hooks": {
